@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.env
+
+# IDEs e OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Banco de dados vetorial local (se gerado)
+faiss_index/
+data/
