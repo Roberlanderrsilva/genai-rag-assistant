@@ -1,8 +1,18 @@
 # Production-Ready GenAI & RAG Engine
 
+
+https://github.com/user-attachments/assets/0ea48ae0-d958-4dea-9fce-5e36f218b739
+
+
+
 An advanced, production-ready Generative AI and Retrieval-Augmented Generation (RAG) backend engine designed for semantic document answering, entity extraction, and structured text summarization. Built using modern cloud-native architectures, high-performance API frameworks, and standard AI engineering paradigms.
 
 ## 🚀 Key Features & Responsibilities Addressed
+
+
+https://github.com/user-attachments/assets/0a88ff2a-85c1-40dc-8162-08bc6a22beb4
+
+
 
 *   **RAG Pipeline Engineering**: Complete end-to-end data ingestion utilizing `RecursiveCharacterTextSplitter` for optimal context chunking and semantic preservation.
 *   **Vector Database Integration**: Native orchestration with dense retrieval vector indexers (`FAISS`) using state-of-the-art multi-dimensional embeddings (`text-embedding-3-small`).
@@ -61,6 +71,11 @@ uvicorn app.main:app --reload
 Access the interactive OpenAPI Documentation (Swagger UI) at: `http://127.0.0`
 
 ## 🐳 Containerized Deployment (AWS / Azure)
+
+
+https://github.com/user-attachments/assets/63ee99de-d4ca-4121-b087-f3ed87267ec6
+
+
 
 Build and run your isolated cloud-native microservice instantly using Docker:
 ```bash
