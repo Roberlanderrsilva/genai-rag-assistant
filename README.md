@@ -1,15 +1,14 @@
 # Production-Ready GenAI & RAG Engine
 Vídeo demostrativo:
-https://github.com/user-attachments/assets/227a9196-1bb2-4811-8bc5-74187c5860f7
+
+
+https://github.com/user-attachments/assets/556a3376-a0df-4e74-a0d9-a48572649a89
+
+
 
 An advanced, production-ready Generative AI and Retrieval-Augmented Generation (RAG) backend engine designed for semantic document answering, entity extraction, and structured text summarization. Built using modern cloud-native architectures, high-performance API frameworks, and standard AI engineering paradigms.
 
 ## 🚀 Key Features & Responsibilities Addressed
-
-
-https://github.com/user-attachments/assets/0a88ff2a-85c1-40dc-8162-08bc6a22beb4
-
-
 
 *   **RAG Pipeline Engineering**: Complete end-to-end data ingestion utilizing `RecursiveCharacterTextSplitter` for optimal context chunking and semantic preservation.
 *   **Vector Database Integration**: Native orchestration with dense retrieval vector indexers (`FAISS`) using state-of-the-art multi-dimensional embeddings (`text-embedding-3-small`).
